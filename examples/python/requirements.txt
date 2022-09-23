@@ -31,7 +31,7 @@ googleapis-common-protos==1.53.0
     # via google-api-core
 idna==3.2
     # via requests
-protobuf==3.17.3
+protobuf==3.18.3
     # via
     #   google-api-core
     #   google-cloud-storage
@@ -49,9 +49,7 @@ requests==2.26.0
 rsa==4.7.2
     # via google-auth
 six==1.16.0
-    # via
-    #   google-cloud-storage
-    #   protobuf
+    # via google-cloud-storage
 urllib3==1.26.6
     # via requests
 
